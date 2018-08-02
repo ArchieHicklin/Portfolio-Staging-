@@ -186,7 +186,19 @@ template { display: none; }
 [hidden] { display: none; }
 /* Modules */
 /*
+FONTS
+*/
 
+@font-face {
+  font-family: "circular";
+  src: url("fonts/Circular.ttf");
+  }
+
+  @font-face {
+    font-family: "CircularAirPro";
+    src: url("fonts/CircularAir-Light.ttf");
+    }
+/*
   BOX SIZING
 */
 html, body, div, article, aside, section, main, nav, footer, header, form,
